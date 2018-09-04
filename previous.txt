@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    //header above the url
+    <title>
+      Caroline Sih
+    </title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet"
+    type="text/css"
+    href="main.css">
+  </head>
+  <body>
+    <h1> Caroline Sih's Personal Website</h1>
+
+    <h3> My Links </h3>
+    <p> <a href="https://www.linkedin.com/in/caroline-sih"> LinkedIn </a> </p>
+    <p> <a href="https://github.com/carolinesih"> GitHub </a> </p>
+  </body>
+</html>
